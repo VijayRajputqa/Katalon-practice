@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Script Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dec9d7f0-476e-4d07-a15a-f1eab62f8122</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d804d505-d465-4b68-aa88-9ae320a811dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'student\r\n'</defaultValue>
+      <description></description>
+      <id>d804d505-d465-4b68-aa88-9ae320a811dd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

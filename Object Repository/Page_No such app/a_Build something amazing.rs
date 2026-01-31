@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Build something amazing</name>
+   <tag></tag>
+   <elementGuidId>ceb0794b-92d6-4c70-9776-69e7066092f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Build something amazing')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Build something amazing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>219e50b6-56ab-4232-9fa3-8ab0ac93c7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.heroku.com/?utm_source=error-pages&amp;utm_content=no-such-app</value>
+      <webElementGuid>39bb82d1-21a5-4276-a832-a80e881e71fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>2db605e3-6914-4b04-8c97-e66cf53af6b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Build something amazing</value>
+      <webElementGuid>b11b4568-bcb0-455a-9c4d-85769606a1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;friendly&quot;]/div[@class=&quot;message&quot;]/a[@class=&quot;btn&quot;]</value>
+      <webElementGuid>bd60b250-c39f-4cb9-98b8-c5d2697a55c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_No such app/iframe</value>
+      <webElementGuid>90ea9424-df70-4d5e-bf0c-2dd1b9aaf296</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Build something amazing')]</value>
+      <webElementGuid>09cdf2b6-6d06-429c-bb6e-3445e71b9a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Build something amazing']/parent::*</value>
+      <webElementGuid>f35e209f-b454-403b-90d8-fd9031d9fcc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.heroku.com/?utm_source=error-pages&amp;utm_content=no-such-app')]</value>
+      <webElementGuid>385cc85b-5d77-47d1-a778-8040eb9e0e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>c39b8bb9-85af-4f64-9a1e-e1f001e94217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.heroku.com/?utm_source=error-pages&amp;utm_content=no-such-app' and (text() = 'Build something amazing' or . = 'Build something amazing')]</value>
+      <webElementGuid>1d536342-a704-4140-be5b-71ebef3ee8a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
